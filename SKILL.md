@@ -1,3 +1,15 @@
+---
+name: semiconductor-test-kb
+description: Semiconductor product testing knowledge base for wafer, package, function, reliability, and test data analysis.
+keywords:
+  - semiconductor
+  - testing
+  - wafer
+  - package
+  - reliability
+  - test data
+---
+
 # semiconductor-test-kb Skill
 
 ## Skill Overview
