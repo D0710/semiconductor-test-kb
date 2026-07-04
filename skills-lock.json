@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "semiconductor-test-kb": {
+      "source": "D0710/semiconductor-test-kb",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "95dafe67f8385251c00a55f9b24775de181dadf1aeef5a7d292af5fa7d26e25d"
+    }
+  }
+}
